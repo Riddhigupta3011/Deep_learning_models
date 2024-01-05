@@ -1,6 +1,6 @@
-# Number Recognition with Keras.Sequential on MNIST Dataset
+# Number Recognition on MNIST Dataset
 
-This repository contains a simple yet effective implementation of number recognition using the popular MNIST dataset. The model is built using Keras.Sequential, utilizing layers for neural network architecture and the Adam optimizer for efficient training.
+Welcome to the "Number Recognition on MNIST" deep learning project! This project focuses on building a number recognition model using the Keras.Sequential model, layers, and the Adam optimizer, achieving high accuracy on the MNIST dataset.
 
 ## Highlights:
 
@@ -11,19 +11,24 @@ This repository contains a simple yet effective implementation of number recogni
 
 ## Getting Started:
 
-1. Clone the repository:
+1. Clone the entire "Deep learning models" repository:
 
     ```bash
-    git clone https://github.com/Riddhigupta3011/Deep_learning_models/Number-Recognition-MNIST.git
+    git clone https://github.com/Riddhigupta3011/Deep_learning_models.git
+    cd Deep_learning_models
+    ```
+
+2. Navigate to the "Number-Recognition-MNIST" folder:
+
+    ```bash
     cd Number-Recognition-MNIST
     ```
 
-2. Install dependencies:
+3. Install dependencies:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-3. Explore the Jupyter notebook or Python script for the model implementation.
-
+4. Explore the project files and directories.
 
